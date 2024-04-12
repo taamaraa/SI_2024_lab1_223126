@@ -1,0 +1,35 @@
+commit 21d4c43905a19321cf2ebe1fe986a937add192c8
+Author: taamaraa <tamara.srbinoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 14:44:03 2024 +0200
+
+    а Call method filterOddLengthStrings in main class.
+
+commit 63418146043b1c7e424f5bf0b7acfa1126a4ce1a
+Author: taamaraa <tamara.srbinoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 14:39:46 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 2c144e1cbaf9e446d780cd01e42d19b732df829e
+Author: taamaraa <tamara.srbinoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 14:42:52 2024 +0200
+
+    а Call method filterOddLengthStrings in main class.
+
+commit 74f7275c7fe83cc8ae5ca0463e5eed928438bb57
+Author: taamaraa <tamara.srbinoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 14:35:56 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e7503579adfbe440dcef18ccca02ca981dfcd281
+Author: taamaraa <tamara.srbinoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 14:29:51 2024 +0200
+
+    Add starter code
+
+commit f2749000ec69f5bd14ee5752bb12fc217bc16183
+Author: taamaraa <tamara.srbinoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 14:18:52 2024 +0200
+
+    Initial commit
